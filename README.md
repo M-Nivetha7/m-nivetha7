@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=1300&color=8A2BE2&center=true&vCenter=true&width=750&lines=M.+NIVETHA;AI+and+ML+Engineer;Innovator+in+Smart+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=1300&color=8A2BE2&center=true&vCenter=true&width=750&lines=NIVETHA+MAYILVAGANAN;AI+and+ML+Engineer;Innovator+in+Smart+Tech" />
 </p>
 
 
