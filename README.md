@@ -3,12 +3,14 @@
 </p>
 
 
-
 <p align="center">
   <marquee behavior="alternate" scrollamount="6">
     🤖 ✨ 🎓 🤖 ✨ 🎓 🤖 ✨ 🎓
   </marquee>
   <strong>Pre final year student pursuing Bachelor of Technology in AI and ML</strong>
+  <marquee behavior="alternate" scrollamount="6">
+    🎓 ✨ 🤖 🎓 ✨ 🤖 🎓 ✨ 🤖
+  </marquee>
 </p>
 
 
