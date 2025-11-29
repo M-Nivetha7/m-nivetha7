@@ -1,13 +1,14 @@
 <p align="center">
-<font face="Poppins" size="8" color="#6A0DAD"><b>NIVETHA MAYILVAGANAN</b></font>
+<font face="Poppins" size="8" color="#8A2BE2"><b>NIVETHA MAYILVAGANAN</b></font>
 </p>
 
 
 
 
 <p align="center">
-<font face="Poppins" size="6" color="#C71585"><b>Bachelor of Technology in Artificial Intelligence and Machine Learning</b></font>
+<font face="Poppins" size="6" color="#FF1493"><b>Bachelor of Technology in Artificial Intelligence and Machine Learning</b></font>
 </p>
+
 
 
 
