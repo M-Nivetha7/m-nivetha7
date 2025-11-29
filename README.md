@@ -4,7 +4,10 @@
 
 
 <p align="center">
-  <h1>Pre-final year student pursuing Bachelor of Technology in AI &amp; ML</h1>
+  <img src="https://i.imgur.com/9Ylm6lJ.gif" width="200">
+</p>
+<p align="center">
+  <strong>Pre final year student pursuing Bachelor of Technology in AI and ML</strong>
 </p>
 
 
