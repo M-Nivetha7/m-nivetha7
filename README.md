@@ -64,16 +64,6 @@ To become a top performing AI engineer who contributes to high impact technologi
 
 ---
 
-## 🏆 Achievements
-
-- Internship experience in Machine Learning  
-- Multiple hackathon participations including 24 to 36 hour events  
-- Project leadership in AI based solutions for agriculture and healthcare  
-- Certifications in MongoDB Basics and AI skill development programs  
-- Industrial visit experience at ISRO for advanced tech exposure  
-
----
-
 ## 🌱 Growth Mindset
 
 I believe that learning never stops. I work actively on improving communication, presentation, research, and teamwork capabilities. Technology evolves every day, and I thrive in this environment that demands constant curiosity and creativity.
