@@ -1,11 +1,13 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=1300&color=8A2BE2&center=true&vCenter=true&width=750&lines=NIVETHA+MAYILVAGANAN" />
+<font face="Poppins" size="7" color="#8A2BE2"><b>NIVETHA MAYILVAGANAN</b></font>
 </p>
+
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=8A2BE2&center=true&vCenter=true&width=600&lines=Bachelor+of+Technology+in+AI+and+ML" />
+<font face="Poppins" size="5" color="#8A2BE2"><b>Bachelor of Technology in AI and ML</b></font>
 </p>
+
 
 
 ---
