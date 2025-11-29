@@ -44,6 +44,9 @@
 
 ---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Nivetha7&theme=dark" alt="M-Nivetha7" /></p>
+---
+
 ## 💡 What Defines Me
 
 I am a builder who thrives on continuous learning and tackling challenging projects, hackathons, and research initiatives. I value ownership, consistency, and collaboration, and enjoy developing frameworks, preparing datasets, deploying AI models, and working closely with teams. Every experience strengthens me, and I seek opportunities that push me to explore new tools, solve problems creatively, and grow in AI innovation.
