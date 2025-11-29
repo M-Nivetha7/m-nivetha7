@@ -4,13 +4,7 @@
 
 
 <p align="center">
-  <marquee behavior="alternate" scrollamount="6">
-    🤖 ✨ 🎓 🤖 ✨ 🎓 🤖 ✨ 🎓
-  </marquee>
-  <strong>Pre final year student pursuing Bachelor of Technology in AI and ML</strong>
-  <marquee behavior="alternate" scrollamount="6">
-    🎓 ✨ 🤖 🎓 ✨ 🤖 🎓 ✨ 🤖
-  </marquee>
+<img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=40&color=FF1493&center=true&vCenter=true&width=900&lines=Bachelor+of+Technology+in+AI+and+ML" />
 </p>
 
 
