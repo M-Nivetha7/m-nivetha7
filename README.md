@@ -3,7 +3,10 @@
 </p>
 
 
-🎓 **Bachelor of Technology in Artificial Intelligence and Machine Learning**   
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=8A2BE2&center=true&vCenter=true&width=600&lines=BTech+in+Artificial+Intelligence+and+Machine+Learning" />
+</p>
+
 
 ---
 
