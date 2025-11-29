@@ -1,13 +1,15 @@
 <p align="center">
-<font face="Poppins" size="8" color="#8A2BE2"><b>NIVETHA MAYILVAGANAN</b></font>
+<img src="https://img.shields.io/badge/NIVETHA%20MAYILVAGANAN-%238A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 
 
 
 <p align="center">
-<font face="Poppins" size="6" color="#FF1493"><b>Bachelor of Technology in Artificial Intelligence and Machine Learning</b></font>
+<img src="https://img.shields.io/badge/BTech%20in%20AI%20and%20ML-%23FF1493?style=for-the-badge&logo=education&logoColor=white" />
 </p>
+
 
 
 
