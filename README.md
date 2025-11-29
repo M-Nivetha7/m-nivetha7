@@ -1,17 +1,10 @@
 <p align="center">
-<img src="https://img.shields.io/badge/NIVETHA%20MAYILVAGANAN-%238A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=60&color=8A2BE2&center=true&vCenter=true&width=800&lines=NIVETHA+MAYILVAGANAN" />
 </p>
-
-
-
-
 
 <p align="center">
-<img src="https://img.shields.io/badge/BTech%20in%20AI%20and%20ML-%23FF1493?style=for-the-badge&logo=education&logoColor=white" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=40&color=FF1493&center=true&vCenter=true&width=900&lines=Bachelor+of+Technology+in+AI+and+ML" />
 </p>
-
-
-
 
 
 ---
