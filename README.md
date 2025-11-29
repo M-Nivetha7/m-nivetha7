@@ -12,8 +12,9 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=650&height=60&pause=1500&lines=AI+and+ML+Enthusiast;Full+Stack+Developer;Building+Innovative+Real+World+Solutions;Hackathon+Learner+and+Creator" />
+<img src="https://dummyimage.com/650x60/8A2BE2/ffffff&text=Loves+to+build+AI+%26+ML+projects&font=Verdana&size=26" />
 </p>
+
 
 <p align="center">
 A professional GitHub profile representing my journey in artificial intelligence, machine learning, and modern software development. I focus on creating impactful solutions with strong engineering principles, continuous learning, and a passion for solving real problems using smart technology.
