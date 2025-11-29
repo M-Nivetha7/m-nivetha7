@@ -24,7 +24,6 @@ A professional GitHub profile representing my journey in artificial intelligence
   <img src="https://streak-stats.demolab.com/?user=M-Nivetha7&theme=dark&hide_border=true&border_radius=10" />
 </p>
 
-
 ---
 
 ## 🔧 Tools and Technologies I Work With
