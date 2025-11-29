@@ -74,12 +74,6 @@ To become a top performing AI engineer who contributes to high impact technologi
 
 ---
 
-## 🌱 Growth Mindset
-
-I believe that learning never stops. I work actively on improving communication, presentation, research, and teamwork capabilities. Technology evolves every day, and I thrive in this environment that demands constant curiosity and creativity.
-
----
-
 ## 📫 Reach Me
 
 <p align="center">
