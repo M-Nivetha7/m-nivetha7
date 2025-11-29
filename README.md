@@ -20,6 +20,10 @@
 A professional GitHub profile representing my journey in artificial intelligence, machine learning, and modern software development. I focus on creating impactful solutions with strong engineering principles, continuous learning, and a passion for solving real problems using smart technology.
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=M-Nivetha7&theme=dark&hide_border=true&border_radius=10" />
+</p>
+
 
 ---
 
