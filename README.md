@@ -15,6 +15,7 @@
 <img src="https://dummyimage.com/650x60/8A2BE2/ffffff&text=Building+projects+realated+to+AI+%26+ML&font=Verdana&size=26" />
 </p>
 
+---
 
 <p align="center">
   I focus on creating impactful solutions with strong engineering principles, continuous learning, and a passion for solving real problems using smart technology.
