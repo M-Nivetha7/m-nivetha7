@@ -4,8 +4,9 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=40&color=FF1493&center=true&vCenter=true&width=900&lines=Bachelor+of+Technology+in+AI+and+ML" />
+  <h1>Pre-final year student pursuing Bachelor of Technology in AI &amp; ML</h1>
 </p>
+
 
 
 
