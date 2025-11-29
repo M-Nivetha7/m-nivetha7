@@ -83,11 +83,7 @@ I believe that learning never stops. I work actively on improving communication,
 ## 📫 Reach Me
 
 <p align="center">
-  <!-- GitHub Profile Badge -->
-  <a href="https://github.com/M-Nivetha7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
+  
   <!-- LinkedIn Profile Badge -->
   <a href="https://www.linkedin.com/in/nivetha-mayilvaganan-20408729b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
