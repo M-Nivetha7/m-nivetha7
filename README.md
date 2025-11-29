@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center">
+<p align="center" style="color: yellow;">
   I focus on creating impactful solutions with strong engineering principles, continuous learning, and a passion for solving real problems using smart technology.
 </p>
 
