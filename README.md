@@ -45,13 +45,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=dark" alt="M Nivetha's GitHub Stats" />
-</p>
-
-
----
-
 ## 💡 What Defines Me
 
 I am a builder who thrives on continuous learning and tackling challenging projects, hackathons, and research initiatives. I value ownership, consistency, and collaboration, and enjoy developing frameworks, preparing datasets, deploying AI models, and working closely with teams. Every experience strengthens me, and I seek opportunities that push me to explore new tools, solve problems creatively, and grow in AI innovation.
