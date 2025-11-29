@@ -46,10 +46,7 @@
 
 ## 💡 What Defines Me
 
-I am a builder who learns continuously. I like taking up hackathons, competitive projects, and research driven initiatives that push me beyond comfort zones. Leadership, consistency, and ownership guide my values in technology. I believe every experience helps me grow, whether it involves developing frameworks from scratch, preparing datasets, deploying AI models on the cloud, or collaborating closely with teammates to deliver on time.
-
-I always seek to challenge myself with new tools and problem statements. I love participating in hackathons, ideathons, and tech events that help me meet diverse minds and explore different ways to solve a problem. Every event has transformed me into a stronger version of myself with perseverance and readiness to face the future in AI innovation.
-
+I am a builder who thrives on continuous learning and tackling challenging projects, hackathons, and research initiatives. I value ownership, consistency, and collaboration, and enjoy developing frameworks, preparing datasets, deploying AI models, and working closely with teams. Every experience strengthens me, and I seek opportunities that push me to explore new tools, solve problems creatively, and grow in AI innovation.
 ---
 
 ## 🚀 Technical Interests
