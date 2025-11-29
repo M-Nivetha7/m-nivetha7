@@ -4,9 +4,14 @@
 
 ---
 
-I am a passionate and ambitious AI and ML enthusiast who is shaping a strong career in modern intelligent systems. I love solving real world challenges through data driven insights, cutting edge machine learning techniques, and products that create positive impact in society. I believe in building solutions that empower people with technology that is accessible, scalable, and responsible.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=650&height=60&pause=1500&lines=AI+and+ML+Enthusiast;Full+Stack+Developer;Building+Innovative+Real+World+Solutions;Hackathon+Learner+and+Creator" />
+</p>
 
-Throughout my journey in engineering, I have been learning to combine strong analytical thinking with creativity. I enjoy full stack development as well as end to end machine learning pipelines that bring AI models into real applications. My long term goal is to become a highly innovative leader in smart technology which bridges healthcare, agriculture, automation, and human centered computing.
+<p align="center">
+A professional GitHub profile representing my journey in artificial intelligence, machine learning, and modern software development. I focus on creating impactful solutions with strong engineering principles, continuous learning, and a passion for solving real problems using smart technology.
+</p>
+
 
 ---
 
