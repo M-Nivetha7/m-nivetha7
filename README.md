@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=60&color=8A2BE2&center=true&vCenter=true&width=800&lines=NIVETHA+MAYILVAGANAN" />
+<img src="https://img.shields.io/badge/NIVETHA%20MAYILVAGANAN-8A2BE2?style=for-the-badge&logoColor=white" />
 </p>
 
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=40&color=FF1493&center=true&vCenter=true&width=900&lines=Bachelor+of+Technology+in+AI+and+ML" />
+<img src="https://img.shields.io/badge/Bachelor%20of%20Technology%20in%20AI%20and%20ML-FF1493?style=for-the-badge&logoColor=white" />
 </p>
 
 
