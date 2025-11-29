@@ -45,7 +45,11 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Nivetha7&theme=dark" alt="M-Nivetha7" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=dark" alt="M Nivetha's GitHub Stats" />
+</p>
+
+
 ---
 
 ## 💡 What Defines Me
