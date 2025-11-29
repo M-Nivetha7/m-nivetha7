@@ -1,9 +1,7 @@
 <p align="center">
-  
-<!-- Animated Gradient Name -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syncopate&size=35&duration=2500&pause=1200&color=F700FF&center=true&vCenter=true&width=700&lines=M.+NIVETHA;AI+and+ML+Engineer;Innovator+and+Tech+Explorer" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1200&color=00E7FF&width=750&center=true&vCenter=true&lines=M.+NIVETHA;Aspiring+AI+Engineer;Always+Learning+Always+Building" />
 </p>
+
 
 
 🎓 **Bachelor of Technology in Artificial Intelligence and Machine Learning**   
