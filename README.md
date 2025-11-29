@@ -6,10 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=40&color=FF1493&center=true&vCenter=true&width=900&repeat=true&pause=1000&lines=Bachelor+of+Technology+in+AI+and+ML;Bachelor+of+Technology+in+AI+and+ML" />
 </p>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Nivetha7&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Nivetha7&show_icons=true)
 
 
 
