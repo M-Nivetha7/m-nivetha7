@@ -1,11 +1,12 @@
 <p align="center">
-<img src="https://img.shields.io/badge/NIVETHA%20MAYILVAGANAN-8A2BE2?style=for-the-badge&logoColor=white" />
+<img src="https://dummyimage.com/800x150/8A2BE2/ffffff&text=NIVETHA+MAYILVAGANAN&font=Impact&size=60" />
 </p>
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/Bachelor%20of%20Technology%20in%20AI%20and%20ML-FF1493?style=for-the-badge&logoColor=white" />
+<img src="https://dummyimage.com/900x100/FF1493/ffffff&text=Bachelor+of+Technology+in+AI+and+ML&font=Verdana&size=40" />
 </p>
+
 
 
 ---
