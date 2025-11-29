@@ -3,38 +3,12 @@
 </p>
 
 
+
 <p align="center">
-<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .emoji {
-      font-size: 28px;
-      dominant-baseline: middle;
-      text-anchor: middle;
-      animation: float 3s ease-in-out infinite alternate;
-    }
-    @keyframes float {
-      0 percent { transform: translateX(-20px); }
-      100 percent { transform: translateX(20px); }
-    }
-    .text {
-      font-size: 20px;
-      font-weight: bold;
-      text-anchor: middle;
-      dominant-baseline: middle;
-      fill: #ffffff;
-    }
-  </style>
-
-  <rect width="600" height="120" fill="#1a1a1a" rx="12" />
-
-  <text x="300" y="65" class="text">
-    Pre final year student pursuing Bachelor of Technology in AI and ML
-  </text>
-
-  <text x="80" y="40" class="emoji" style="animation-delay: 0s;">🤖</text>
-  <text x="520" y="40" class="emoji" style="animation-delay: 1s;">🎓</text>
-  <text x="300" y="20" class="emoji" style="animation-delay: 0.5s;">✨</text>
-</svg>
+  <marquee behavior="alternate" scrollamount="6">
+    🤖 ✨ 🎓 🤖 ✨ 🎓 🤖 ✨ 🎓
+  </marquee>
+  <strong>Pre final year student pursuing Bachelor of Technology in AI and ML</strong>
 </p>
 
 
