@@ -48,6 +48,20 @@ I am a builder who thrives on continuous learning and tackling challenging proje
 
 ---
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=M-Nivetha7&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Nivetha7&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🚀 Technical Interests
 
 - Artificial Intelligence and Machine Learning  
