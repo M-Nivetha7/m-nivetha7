@@ -9,8 +9,7 @@
 ---
 
 <p align="center">
-  <img src="![Uploading coding_girl_gif.gif…]()
-" width="250" />
+  <img src="![Uploading coding_girl_gif.gif…]()" width="250" />
 </p>
 
 
