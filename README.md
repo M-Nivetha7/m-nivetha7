@@ -84,10 +84,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/m-nivetha7/m-nivetha7/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 
 
 
