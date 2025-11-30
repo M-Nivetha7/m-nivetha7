@@ -9,6 +9,13 @@
 ---
 
 <p align="center">
+  <img src="https://tenor.com/view/coding-girl-gif-2332171326726785246" width="250" />
+</p>
+
+
+---
+
+<p align="center">
 <img src="https://dummyimage.com/650x60/8A2BE2/ffffff&text=Building+projects+realated+to+AI+%26+ML&font=Verdana&size=26" />
 </p>
 
