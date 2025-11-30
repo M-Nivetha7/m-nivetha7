@@ -37,12 +37,6 @@
 
 ---
 
-## 💡 What Defines Me
-
-I am a builder who thrives on continuous learning and tackling challenging projects, hackathons, and research initiatives. I value ownership, consistency, and collaboration, and enjoy developing frameworks, preparing datasets, deploying AI models, and working closely with teams. Every experience strengthens me, and I seek opportunities that push me to explore new tools, solve problems creatively, and grow in AI innovation.
-
----
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Nivetha7&theme=tokyonight" />
 </p>
@@ -80,18 +74,6 @@ I am a builder who thrives on continuous learning and tackling challenging proje
 - Cloud Integration, Deployment, and Automation
   
 - Model Optimization and Performance Engineering  
-
----
-
-## 🧑🏻‍💻 Current Focus
-
-I am building practical solutions that apply vision based tracking, disease prediction models, and deep learning based inference in real environments. I aim to integrate secure user authentication, advanced data management, visualization dashboards, and decision support systems inside AI driven applications.
-
----
-
-## 🎯 Mission
-
-To become a top performing AI engineer who contributes to high impact technologies through research, innovation, and real world development. I strive to build solutions that enhance healthcare systems, empower farmers with smart tools, improve the experience of exercise and rehabilitation tracking, and help humans achieve more through intelligent systems.
 
 ---
 
