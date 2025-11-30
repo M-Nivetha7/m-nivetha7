@@ -83,4 +83,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m-nivetha7/m-nivetha7/output/dist/snake.svg" alt="Snake animation" />
+</p>
+
+
 
