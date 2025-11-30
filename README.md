@@ -10,9 +10,6 @@
   <img src="https://github.com/user-attachments/assets/77f2ec24-b68d-4ed8-88a8-65b89822514d" width="110" />
 </p>
 
-
----
-
 <p align="center">
 <img src="https://dummyimage.com/650x60/8A2BE2/ffffff&text=Building+projects+realated+to+AI+%26+ML&font=Verdana&size=26" />
 </p>
