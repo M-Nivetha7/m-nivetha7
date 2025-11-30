@@ -46,17 +46,8 @@
 
 <div align="center">
 
-![Followers](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Followers)
-![Stars](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Stars)
-![Commit](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Commit)
-![PR](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=PullRequest)
-![Issues](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Issues)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=m-nivetha7&theme=darkhub)](https://github-profile-trophy.vercel.app/?username=m-nivetha7)
 
-![Repo](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Repositories)
-![Experience](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Experience)
-![MultiLanguage](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=MultiLanguage)
-![Reviewer](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Reviewer)
-![OrgMember](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Organizations)
 
 </div>
 ---
