@@ -67,12 +67,18 @@ I am a builder who thrives on continuous learning and tackling challenging proje
 
 ## 🚀 Technical Interests
 
-- Artificial Intelligence and Machine Learning  
-- Computer Vision and Image Processing  
-- Data Science and Predictive Analytics  
-- Full Stack AI Integrated Web Solutions  
-- Real Time Pose and Activity Tracking Systems  
-- Cloud Integration, Deployment, and Automation  
+- Artificial Intelligence and Machine Learning
+   
+- Computer Vision and Image Processing
+   
+- Data Science and Predictive Analytics
+   
+- Full Stack AI Integrated Web Solutions
+  
+- Real Time Pose and Activity Tracking Systems
+  
+- Cloud Integration, Deployment, and Automation
+  
 - Model Optimization and Performance Engineering  
 
 ---
