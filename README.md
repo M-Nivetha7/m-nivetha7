@@ -54,7 +54,7 @@ I am a builder who thrives on continuous learning and tackling challenging proje
 
 ---
 
-[![committers.top rank](https://committers.top/india/M-Nivetha7.svg)](https://committers.top/india/M-Nivetha7)
+[![committers.top badge](https://user-badge.committers.top/india/M-Nivetha7.svg)](https://user-badge.committers.top/india/M-Nivetha7)
 
 
 ---
