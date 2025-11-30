@@ -106,6 +106,3 @@ To become a top performing AI engineer who contributes to high impact technologi
 </p>
 
 
----
-
-✨ Thank you for visiting my profile. Let us connect and build something meaningful together.
