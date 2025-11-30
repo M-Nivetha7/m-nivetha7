@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://dummyimage.com/650x60/8A2BE2/ffffff&text=Building+projects+realated+to+AI+%26+ML&font=Verdana&size=26" />
+<img src="https://dummyimage.com/650x60/8A2BE2/ffffff&text=Building+projects+related+to+AI+%26+ML&font=Verdana&size=26" />
 </p>
 
 
