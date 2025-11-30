@@ -42,17 +42,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=m-nivetha7&theme=darkhub)](https://github-profile-trophy.vercel.app/?username=m-nivetha7)
-
-
-</div>
-
----
-
 ## 💡 What Defines Me
 
 I am a builder who thrives on continuous learning and tackling challenging projects, hackathons, and research initiatives. I value ownership, consistency, and collaboration, and enjoy developing frameworks, preparing datasets, deploying AI models, and working closely with teams. Every experience strengthens me, and I seek opportunities that push me to explore new tools, solve problems creatively, and grow in AI innovation.
@@ -67,6 +56,17 @@ I am a builder who thrives on continuous learning and tackling challenging proje
 
 [![committers.top badge](https://user-badge.committers.top/india/M-Nivetha7.svg)](https://user-badge.committers.top/india/M-Nivetha7)
 
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=m-nivetha7&theme=darkhub)](https://github-profile-trophy.vercel.app/?username=m-nivetha7)
+
+
+</div>
 
 ---
 
