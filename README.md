@@ -69,11 +69,7 @@
    
 - Full Stack AI Integrated Web Solutions
   
-- Real Time Pose and Activity Tracking Systems
-  
 - Cloud Integration, Deployment, and Automation
-  
-- Model Optimization and Performance Engineering  
 
 ---
 
