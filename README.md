@@ -84,6 +84,12 @@
 </p>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M-Nivetha7/github-snake-contributions/main/snake.svg" alt="GitHub Contributions Snake" />
+</p>
+
+
+
 
 
 
