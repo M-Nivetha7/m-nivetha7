@@ -42,6 +42,25 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![Followers](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Followers)
+![Stars](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Stars)
+![Commit](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Commit)
+![PR](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=PullRequest)
+![Issues](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Issues)
+
+![Repo](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Repositories)
+![Experience](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Experience)
+![MultiLanguage](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=MultiLanguage)
+![Reviewer](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Reviewer)
+![OrgMember](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub&no-frame=true&title=Organizations)
+
+</div>
+---
+
 ## 💡 What Defines Me
 
 I am a builder who thrives on continuous learning and tackling challenging projects, hackathons, and research initiatives. I value ownership, consistency, and collaboration, and enjoy developing frameworks, preparing datasets, deploying AI models, and working closely with teams. Every experience strengthens me, and I seek opportunities that push me to explore new tools, solve problems creatively, and grow in AI innovation.
