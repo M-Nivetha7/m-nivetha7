@@ -9,7 +9,8 @@
 ---
 
 <p align="center">
-  <img src="https://tenor.com/view/coding-girl-gif-2332171326726785246" width="250" />
+  <img src="![Uploading coding_girl_gif.gif…]()
+" width="250" />
 </p>
 
 
