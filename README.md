@@ -74,10 +74,15 @@
 ---
 
 ### GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Nivetha7&theme=radical" alt="GitHub Stats" />
+</p>
 
 ### Most Used Languages
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=M-Nivetha7&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Nivetha7&theme=radical" alt="Top Languages" />
+</p>
+
 
 ---
 
