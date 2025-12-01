@@ -73,6 +73,13 @@
 
 ---
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=radical)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Nivetha7&layout=compact&theme=radical)
+
+
 ## 📫 Reach Me
 
 <p align="center">
