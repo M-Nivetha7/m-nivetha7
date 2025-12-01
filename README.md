@@ -43,7 +43,12 @@
 
 ---
 
+<div align="center">
+
 [![committers.top badge](https://user-badge.committers.top/india/M-Nivetha7.svg)](https://user-badge.committers.top/india/M-Nivetha7)
+
+</div>
+
 
 
 ---
