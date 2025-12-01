@@ -57,19 +57,6 @@
 
 </div>
 
----
-
-## 🚀 Technical Interests
-
-- Artificial Intelligence and Machine Learning
-   
-- Computer Vision and Image Processing
-   
-- Data Science and Predictive Analytics
-   
-- Full Stack AI Integrated Web Solutions
-  
-- Cloud Integration, Deployment, and Automation
 
 ---
 
