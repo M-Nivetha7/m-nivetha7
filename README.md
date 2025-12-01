@@ -73,13 +73,8 @@
 
 ---
 
-### GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Nivetha7&theme=radical" alt="GitHub Stats" />
-</p>
-
-### Most Used Languages
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Nivetha7&theme=radical" alt="Top Languages" />
 </p>
 
