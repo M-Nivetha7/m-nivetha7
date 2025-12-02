@@ -38,8 +38,9 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=M-Nivetha7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=M-Nivetha7&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
