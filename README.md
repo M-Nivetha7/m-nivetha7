@@ -37,7 +37,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Nivetha7&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-Nivetha7&theme=tokyonight" alt="GitHub Productive Time"/>
 </p>
 
 
