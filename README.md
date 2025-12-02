@@ -37,7 +37,7 @@
 
 ---
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=M-Nivetha7&theme=tokyonight&hide_border=true" alt="streak graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Nivetha7&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 
