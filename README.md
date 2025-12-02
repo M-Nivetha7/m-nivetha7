@@ -67,9 +67,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Nivetha7&theme=default&background=0D1117&title_color=A020F0&text_color=C8A2C8&icon_color=DA70D6" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Nivetha7&theme=default&background=0D1117&title_color=A020F0&text_color=C8A2C8&icon_color=DA70D6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Nivetha7&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Nivetha7&theme=dracula" alt="Top Languages" />
 </p>
+
 
 
 ---
