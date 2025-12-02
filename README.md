@@ -52,7 +52,8 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=M-Nivetha7&theme=modern-lilac&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=M-Nivetha7&theme=modern-lilac&hide_border=true)](https://github.com/M-Nivetha7)
+
 
 
 
