@@ -49,7 +49,10 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=M-Nivetha7&theme=violet-punch&border_radius=10" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=M-Nivetha7&theme=violet-punch&hide_border=false"
+    alt="GitHub Streak"
+  />
 </p>
 
 
