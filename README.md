@@ -41,30 +41,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Nivetha7&theme=tokyonight" alt="Contribution graph"/>
 </p>
 
----
-
-
-
-
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=M-Nivetha7&theme=violet-punch&r=1" alt="GitHub Streak" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
