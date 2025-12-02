@@ -49,7 +49,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/docs/streak-stats-example.svg?user=M-Nivetha7&theme=violet-punch" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=M-Nivetha7&theme=violet-punch&hide_longest_streak=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 
