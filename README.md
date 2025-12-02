@@ -36,8 +36,9 @@
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-Nivetha7&theme=tokyonight" alt="Most Used Languages"/>
+  <img src="https://streak-stats.demolab.com?user=M-Nivetha7&theme=dark&date_format=j%20M%5By%5D" alt="GitHub Streak Stats"/>
 </p>
 
 
