@@ -52,42 +52,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-| GitHub Streak | Committers Badge |
-| ------------- | ---------------- |
-| ![GitHub Streak](https://streak-stats.demolab.com?user=M-Nivetha7&theme=modern-lilac&hide_border=true) | [![committers.top badge](https://user-badge.committers.top/india/M-Nivetha7.svg)](https://user-badge.committers.top/india/M-Nivetha7) |
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## 🏆 GitHub Achievements
