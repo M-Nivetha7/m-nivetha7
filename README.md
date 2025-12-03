@@ -37,7 +37,23 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-250-success?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://quickchart.io/chart?c={
+    type:'doughnut',
+    data:{
+      labels:['Commits'],
+      datasets:[{
+        data:[250],
+        backgroundColor:['#6f42c1']
+      }]
+    },
+    options:{
+      cutoutPercentage:70,
+      plugins:{
+        legend:{display:false},
+        datalabels:{color:'white'}
+      }
+    }
+  }" width="200" />
 </p>
 
 
