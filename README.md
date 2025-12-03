@@ -36,9 +36,8 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-Nivetha7&theme=tokyonight&utcOffset=5" alt="Activity wheel"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Nivetha7&theme=tokyonight" alt="Languages donut chart"/>
 </p>
 
 
