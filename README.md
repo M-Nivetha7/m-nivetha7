@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Nivetha7&theme=tokyonight" alt="Contribution graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-Nivetha7&theme=tokyonight&utcOffset=5" alt="Activity wheel"/>
 </p>
 
 
