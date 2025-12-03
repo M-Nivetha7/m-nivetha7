@@ -36,29 +36,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'doughnut',
-    data:{
-      labels:['Commits'],
-      datasets:[{
-        data:[230],
-        backgroundColor:['#6f42c1']
-      }]
-    },
-    options:{
-      cutoutPercentage:70,
-      plugins:{
-        legend:{display:false},
-        datalabels:{color:'white'}
-      }
-    }
-  }" width="200" />
-</p>
-
-
----
-
 
 <div align="center">
 
