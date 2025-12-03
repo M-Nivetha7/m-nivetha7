@@ -42,7 +42,7 @@
     data:{
       labels:['Commits'],
       datasets:[{
-        data:[250],
+        data:[230],
         backgroundColor:['#6f42c1']
       }]
     },
