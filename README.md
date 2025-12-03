@@ -37,7 +37,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Nivetha7&theme=tokyonight" alt="Languages donut chart"/>
+  <img src="https://img.shields.io/badge/Commits-250-success?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 
