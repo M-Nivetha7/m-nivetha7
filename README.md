@@ -51,14 +51,6 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=M-Nivetha7&theme=tokyonight)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=dracula&no-frame=true&no-bg=true)
-
-
-
-
-
 
 
 
