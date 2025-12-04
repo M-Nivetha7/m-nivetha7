@@ -51,13 +51,9 @@
 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=M-Nivetha7&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=M-Nivetha7&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=dracula&no-frame=true&no-bg=true&cache_seconds=86400" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=dracula&no-frame=true&no-bg=true)
 
 
 
