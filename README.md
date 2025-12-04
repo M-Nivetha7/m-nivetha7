@@ -46,11 +46,15 @@
 
 
 
+
+
+
+
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Nivetha7&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
-
 
 ---
 
@@ -58,10 +62,21 @@
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=m-nivetha7&theme=darkhub)](https://github-profile-trophy.vercel.app/?username=m-nivetha7)
-
+<img src="https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub" />
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
