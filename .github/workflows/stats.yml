@@ -1,0 +1,34 @@
+name: Update GitHub Stats Card
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Stats Card
+        uses: anuraghazra/github-readme-stats@v1
+        with:
+          username: "M-Nivetha7"
+          show_icons: true
+          theme: "tokyonight"
+          hide_border: true
+          custom_title: "My GitHub Streaks"
+          file_name: "streak.png"
+
+      - name: Commit and Push
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add streak.png
+          git commit -m "Updated streak card" || echo "No changes to commit"
+          git push
