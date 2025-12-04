@@ -53,18 +53,17 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Nivetha7&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=M-Nivetha7&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=algolia"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=darkhub" />
-
-</div>
 
 
 
