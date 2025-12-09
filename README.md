@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=dracula&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true&cache_seconds=1800" alt="Trophy" />
+  <img src="https://raw.githubusercontent.com/M-Nivetha7/M-Nivetha7/main/banner.png" alt="Profile Banner" />
 </p>
 
 
