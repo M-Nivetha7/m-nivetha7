@@ -59,9 +59,35 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-Nivetha7&theme=radical" />
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/M-Nivetha7/M-Nivetha7/main/banner.png" alt="Profile Banner" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framework-React-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Django-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Sklearn-orange?style=for-the-badge" />
 </p>
+
+
+
+
 
 
 
