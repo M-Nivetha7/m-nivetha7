@@ -53,20 +53,20 @@
 <!-- Committers.top badge -->
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/india/M-Nivetha7.svg)](https://user-badge.committers.top/india/M-Nivetha7)
+[![Committers.Top](https://user-badge.committers.top/india/M-Nivetha7.svg?v=1)](https://user-badge.committers.top/india/M-Nivetha7)
 
 </div>
 
 ---
 
-<!-- GitHub stats and top languages -->
+<!-- GitHub Stats and Top Languages -->
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=dracula&count_private=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=tokyonight&count_private=true&v=1"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=M-Nivetha7&layout=compact&theme=dracula"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=M-Nivetha7&layout=compact&theme=tokyonight&v=1"
     alt="Top Languages"
   />
 </p>
