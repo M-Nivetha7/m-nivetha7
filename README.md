@@ -59,6 +59,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-Nivetha7&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M-Nivetha7&theme=dracula&column=6&margin-w=15&margin-h=15" />
+</p>
 
 
 
