@@ -37,37 +37,43 @@
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/india/M-Nivetha7.svg)](https://user-badge.committers.top/india/M-Nivetha7)
+  <a href="https://user-badge.committers.top/india/M-Nivetha7">
+    <img src="https://user-badge.committers.top/india/M-Nivetha7.svg" alt="committers.top badge" />
+  </a>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Nivetha7&theme=dracula" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Nivetha7&theme=dracula" alt="Top Languages" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
