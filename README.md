@@ -50,16 +50,25 @@
 
 
 
+<!-- Committers.top badge -->
 <div align="center">
 
-  <a href="https://user-badge.committers.top/india/M-Nivetha7">
-    <img src="https://user-badge.committers.top/india/M-Nivetha7.svg" alt="committers.top badge" />
-  </a>
+[![committers.top badge](https://user-badge.committers.top/india/M-Nivetha7.svg)](https://user-badge.committers.top/india/M-Nivetha7)
 
 </div>
+
+---
+
+<!-- GitHub stats and top languages -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Nivetha7&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Nivetha7&theme=dracula" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=dracula&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Nivetha7&layout=compact&theme=dracula"
+    alt="Top Languages"
+  />
 </p>
 
 
