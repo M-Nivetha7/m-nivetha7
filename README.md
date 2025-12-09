@@ -50,25 +50,13 @@
 
 
 
-<!-- Committers.top badge -->
-<div align="center">
-
-[![Committers.Top](https://user-badge.committers.top/india/M-Nivetha7.svg?v=1)](https://user-badge.committers.top/india/M-Nivetha7)
-
-</div>
-
----
-
-<!-- GitHub Stats and Top Languages -->
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=tokyonight&count_private=true&v=1"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=M-Nivetha7&layout=compact&theme=tokyonight&v=1"
-    alt="Top Languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Nivetha7&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Nivetha7&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-Nivetha7&theme=radical" />
 </p>
 
 
