@@ -102,6 +102,15 @@
 
 
 
+<p align="center">
+  <img src="https://github.com/M-Nivetha7/M-Nivetha7/blob/main/contributions.png?raw=true" alt="Contributions Graph" />
+</p>
+
+
+
+
+
+
 
 ---
 
