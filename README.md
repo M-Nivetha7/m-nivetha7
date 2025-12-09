@@ -62,11 +62,11 @@
 <!-- GitHub stats and top languages -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=dracula&count_private=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=M-Nivetha7&show_icons=true&theme=dracula&count_private=true"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Nivetha7&layout=compact&theme=dracula"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=M-Nivetha7&layout=compact&theme=dracula"
     alt="Top Languages"
   />
 </p>
