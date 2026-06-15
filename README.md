@@ -84,6 +84,9 @@
   <!-- LinkedIn Profile Badge -->
   <a href="https://www.linkedin.com/in/nivetha-mayilvaganan-20408729b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.youtube.com/@Crynithic" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
   </a>
 </p>
 
