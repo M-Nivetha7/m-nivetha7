@@ -8,7 +8,9 @@
 
 
 
-
+<div align="center">
+  <img src="./assets/profile.jpg" width="350" alt="Profile Picture">
+</div>
 
 
 
