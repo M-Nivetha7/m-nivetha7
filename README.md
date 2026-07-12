@@ -8,8 +8,15 @@
 
 
 
+
+
+
+
+
+
+
 <div align="center">
-  <img src="./assets/profile.jpg" width="350" alt="Profile Picture">
+  <img src="./assets/myphoto.jpg" width="350" alt="My Photo">
 </div>
 
 
