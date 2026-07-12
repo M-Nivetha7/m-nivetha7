@@ -2,6 +2,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=60&color=8A2BE2&center=true&vCenter=true&width=800&repeat=true&pause=1000&lines=NIVETHA+MAYILVAGANAN;NIVETHA+MAYILVAGANAN" />
 </p>
 
+<img src="assets/profile.jpg" width="400px" alt="M. Nivetha"/>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=40&color=FF1493&center=true&vCenter=true&width=900&repeat=true&pause=1000&lines=Bachelor+of+Technology+in+AI+and+ML;Bachelor+of+Technology+in+AI+and+ML" />
 </p>
