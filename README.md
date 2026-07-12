@@ -15,15 +15,6 @@
 
 
 
-<div align="center">
-  <img src="./assets/myphoto.jpg" width="350" alt="My Photo">
-</div>
-
-
-
-
-
-
 
 
 
