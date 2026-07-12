@@ -2,14 +2,41 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=60&color=8A2BE2&center=true&vCenter=true&width=800&repeat=true&pause=1000&lines=NIVETHA+MAYILVAGANAN;NIVETHA+MAYILVAGANAN" />
 </p>
 
-<div align="center">
-  <img src="assets/profile.jpg" width="400px" alt="M. Nivetha"/>
-</div>
-
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=40&color=FF1493&center=true&vCenter=true&width=900&repeat=true&pause=1000&lines=Bachelor+of+Technology+in+AI+and+ML;Bachelor+of+Technology+in+AI+and+ML" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/M-Nivetha7/M-Nivetha7/main/assets/profile.jpg" width="400px" alt="M. Nivetha"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/77f2ec24-b68d-4ed8-88a8-65b89822514d" width="110" />
