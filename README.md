@@ -20,10 +20,6 @@
 
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/M-Nivetha7/M-Nivetha7/main/assets/profile.jpg" width="400px" alt="M. Nivetha"/>
-</div>
-
 
 
 
